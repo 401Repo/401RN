@@ -7,3 +7,5 @@ Links:
 [read 02](https://401repo.github.io/401RN/read02)
 
 [read 03:  Classes, Inheritance, Functional](https://401repo.github.io/401RN/read03)
+
+[read 04: Data Modeling](https://401repo.github.io/401RN/read04)
