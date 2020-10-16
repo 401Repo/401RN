@@ -9,3 +9,5 @@ Links:
 [read 03:  Classes, Inheritance, Functional](https://401repo.github.io/401RN/read03)
 
 [read 04: Data Modeling](https://401repo.github.io/401RN/read04)
+
+[read 05: Readings: Advanced Mongo/Mongoose](https://401repo.github.io/401RN/read05)
