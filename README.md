@@ -23,3 +23,5 @@ Links:
 [read 10: Readings: API Server](https://401repo.github.io/401RN/read10)
 
 [read 11: Stacks and Queues](https://401repo.github.io/401RN/read11)
+
+[read 11: WHY](https://401repo.github.io/401RN/read12)
