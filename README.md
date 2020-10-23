@@ -24,4 +24,4 @@ Links:
 
 [read 11: Stacks and Queues](https://401repo.github.io/401RN/read11)
 
-[read 11: WHY](https://401repo.github.io/401RN/read12)
+[read 12: WHY](https://401repo.github.io/401RN/read12)
