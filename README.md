@@ -19,3 +19,5 @@ Links:
 [read 08: Express](https://401repo.github.io/401RN/read08)
 
 [read 09: Express Routing](https://401repo.github.io/401RN/read09)
+
+[read 10: Readings: API Server](https://401repo.github.io/401RN/read10)
