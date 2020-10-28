@@ -27,3 +27,5 @@ Links:
 [read 12: WHY](https://401repo.github.io/401RN/read12)
 
 [read 13: Authentication](https://401repo.github.io/401RN/read13)
+
+[read 14: Bearer](https://401repo.github.io/401RN/read14)
