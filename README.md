@@ -31,3 +31,11 @@ Links:
 [read 14: Bearer](https://401repo.github.io/401RN/read14)
 
 [read 15: OAuth](https://401repo.github.io/401RN/read15)
+
+[read 16: Access Control (ACL)](https://401repo.github.io/401RN/read16)
+
+[read 17: Trees](https://401repo.github.io/401RN/read17)
+
+[read 19: Event Driven](https://401repo.github.io/401RN/read19)
+
+[read 20: TCP server](https://401repo.github.io/401RN/read20)
