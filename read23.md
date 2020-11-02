@@ -2,7 +2,7 @@
 
 # Readings: Routing
 
-![Source](https://www.aggsoft.com/tcp-com/tcp-com-main-window.png)
+![Source](https://cdn-images-1.medium.com/fit/t/1600/480/1*0zTnknIALQztpLHFghZJ4g.png)
 
 ### Do child components have direct access to props/state from the parent?
 
