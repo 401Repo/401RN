@@ -1,8 +1,12 @@
 [Home](https://401repo.github.io/401RN/README)
 
+React Components composition
+
+![Source](https://cdn-media-1.freecodecamp.org/images/1*_drMYY_IEgboMS4RhvC-lQ.png)
+
 ### Can a parent component access the state of a child component?
 
-YEs: use a callback function
+Yes: use a callback function
 
 ### What can be passed along in a prop variable?
 
