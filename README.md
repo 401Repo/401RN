@@ -39,3 +39,5 @@ Links:
 [read 19: Event Driven](https://401repo.github.io/401RN/read19)
 
 [read 20: TCP server](https://401repo.github.io/401RN/read20)
+
+[read 21: Hash Tables](https://401repo.github.io/401RN/read21)
