@@ -42,5 +42,7 @@ Links:
 
 [read 21: Hash Tables](https://401repo.github.io/401RN/read21)
 
-[read 22: Routing](https://401repo.github.io/401RN/read22)
+[read 22: Component Composition](https://401repo.github.io/401RN/read22)
+
+[read 22: Routing](https://401repo.github.io/401RN/read23)
 
