@@ -50,3 +50,5 @@ Links:
 
 [read 25: Component Based UI](https://401repo.github.io/401RN/read25)
 
+[read 26: Message Queue](https://401repo.github.io/401RN/read26)
+
