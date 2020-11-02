@@ -48,3 +48,5 @@ Links:
 
 [read 24: Props](https://401repo.github.io/401RN/read24)
 
+[read 25: Component Based UI](https://401repo.github.io/401RN/read25)
+
