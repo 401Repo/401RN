@@ -44,5 +44,7 @@ Links:
 
 [read 22: Component Composition](https://401repo.github.io/401RN/read22)
 
-[read 22: Routing](https://401repo.github.io/401RN/read23)
+[read 23: Routing](https://401repo.github.io/401RN/read23)
+
+[read 24: Props](https://401repo.github.io/401RN/read24)
 
