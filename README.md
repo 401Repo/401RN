@@ -52,3 +52,7 @@ Links:
 
 [read 26: Message Queue](https://401repo.github.io/401RN/read26)
 
+[read 27: Hooks](https://github.com/401Repo/401RN/blob/main/read28.md)
+
+
+
