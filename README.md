@@ -54,5 +54,7 @@ Links:
 
 [read 27: Hooks](https://github.com/401Repo/401RN/blob/main/read28.md)
 
+[read 28: Custom Hooks](https://github.com/401Repo/401RN/blob/main/read29.md)
+
 
 
