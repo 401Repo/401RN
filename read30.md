@@ -1,3 +1,4 @@
+
 # Readings: Application State With Redux
 
 ### Review, Research, and Discussion
