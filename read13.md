@@ -2,7 +2,7 @@
 
 # Readings: Authentication
 
-![Source](http://2.bp.blogspot.com/-LBXskegCq4Q/VUXLoqOa2oI/AAAAAAAAA0A/mbpHSJ5FYoc/s1600/30c9327396dc26dce9a39040b0cb7f0c-1-1.jpg)
+![Source](https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15921/secure-rest-api-in-nodejs-18f43b3033c239da5d2525cfd9fdc98f.png)
 
 #### Explain what a “Singleton” is (in Computer Science terms)
 

@@ -52,8 +52,6 @@ Links:
 
 [read 26: Message Queue](https://401repo.github.io/401RN/read26)
 
-- Final Push here:
-
 [read 27: sockets.IO](https://401repo.github.io/401RN/read27)
 
 [read 28: Log in and Auth](https://401repo.github.io/401RN/read28)
@@ -73,9 +71,4 @@ Links:
 [read 35: Ethics](https://401repo.github.io/401RN/read35)
 
 [read 36: Gatsby, next.js, and other JS Frameworks](https://401repo.github.io/401RN/read36)
-
-
-
-
-
 
