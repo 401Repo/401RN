@@ -52,9 +52,23 @@ Links:
 
 [read 26: Message Queue](https://401repo.github.io/401RN/read26)
 
-[read 27: Hooks](https://401repo.github.io/401RN/read28)
+[read 27: sockets.IO](https://401repo.github.io/401RN/read27)
 
-[read 28: Custom Hooks](https://401repo.github.io/401RN/read29)
+[read 28: Log in and Auth](https://401repo.github.io/401RN/read28)
 
-[read 29: Context API](https://401repo.github.io/401RN/read230)
+[read 29: Graphs](https://401repo.github.io/401RN/read29)
+
+[read 30: Application State with Redux](https://401repo.github.io/401RN/read30)
+
+[read 31: Combined Reducers](https://401repo.github.io/401RN/read31)
+
+[read 32: Asynchronous Actions](https://401repo.github.io/401RN/read32)
+
+[read 33: Readings: Redux - Additional Topics](https://401repo.github.io/401RN/read33)
+
+[read 34: Readings: Redux - Additional Topics](https://401repo.github.io/401RN/read34)
+
+[read 35: Ethics](https://401repo.github.io/401RN/read35)
+
+[read 36: Gatsby, next.js, and other JS Frameworks](https://401repo.github.io/401RN/read36)
 
