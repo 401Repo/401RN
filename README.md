@@ -74,6 +74,12 @@ Links:
 
 [read 36: Gatsby, next.js, and other JS Frameworks](https://401repo.github.io/401RN/read36)
 
+[read 37: Hooks API](https://401repo.github.io/401RN/read37)
+
+[read 38: Custom Hooks](https://401repo.github.io/401RN/read38)
+
+[read 39: Context API](https://401repo.github.io/401RN/read39)
+
 
 
 
